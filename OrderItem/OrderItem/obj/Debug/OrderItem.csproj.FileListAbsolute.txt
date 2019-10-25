@@ -1,0 +1,9 @@
+F:\OrderItem\OrderItem\bin\Debug\OrderItem.exe.config
+F:\OrderItem\OrderItem\bin\Debug\OrderItem.exe
+F:\OrderItem\OrderItem\bin\Debug\OrderItem.pdb
+F:\OrderItem\OrderItem\obj\Debug\OrderItem.csprojAssemblyReference.cache
+F:\OrderItem\OrderItem\obj\Debug\OrderItem.Form1.resources
+F:\OrderItem\OrderItem\obj\Debug\OrderItem.Properties.Resources.resources
+F:\OrderItem\OrderItem\obj\Debug\OrderItem.csproj.GenerateResource.cache
+F:\OrderItem\OrderItem\obj\Debug\OrderItem.exe
+F:\OrderItem\OrderItem\obj\Debug\OrderItem.pdb
